@@ -3,6 +3,8 @@ CM4 EMC2301 Bash Fan Control Script
 
 For use with CM4 Integrator Board
 
+If the fan is not run continiously we would reccomend the fan is started up at least once a day and the RPM value checked.
+
 ```
 fanctl.sh - Pi Fan Control
 
